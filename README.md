@@ -24,71 +24,71 @@
 Revision.
 ________________________________________________________________________________________________________________________________________________________________________________
 ## Goals:
-[] Increase the coding profile on Internet
-[] Making a Hands-on practice for Placements.
-[] Having Good Hands on Python Language.
-________________________________________________________________________________________________________________________________________________________________________________
+[ Increase the coding profile on Internet
+ Making a Hands-on practice for Placements.
+ Having Good Hands on Python Language.]
+______________________________________________________________________________________________________________________________________________________________________________
 # The TIMELINE
 ______________
 Day 1-15: (All on Hackerrank)
 Problems: * Encryption
-           Modi Kaprekar Nums
-           Beautifull Triplets
-           Minimum Distances
-           Halloween Sale
-           Chocolate Feast
-        ___________________________
-        Service Lane
-        Lisa's Workbook
-        Fair Rations
-        Cavity Map
-        Manasa and Stones
-        The Grid Search
-           ___________________________
-           Happy Ladybugs
-           Strange Counter
-           Tutorial Challenges
-           CamelCase
-           Insertion Sort - Part(1)
-           Strong Password
-      _____________________________________
-      Insertion Sort - Part(2)
-      Loop Invariant
-      Caesar Cipher
-      Mars Exploration
-      Run Time of Algorithm
-      Hackerrank in a String!
-      Pangams 
-      Separate the Numbers
-               _____________________________
-               Counting SOrt-(2)
-               Gemstones
-               Alternating Characters
-               Beautifull Binary String
-               Love-Letter Mystery
-               Anagram
-     ______________________________________
-     Making Anagrams
-     Game of Thrones-1
-     Two Strings
-     String Construction
-     Extra Long Factorials
-     Non-Divisible Subset
-             _________________________________
-             Queen's Attack-II
-             Bigger is Greater
-             Flatland Space Stations
-             3D Surface Area
-             Absolute Permutation
-             Larry's Array
-             Almost Sorted
-     _______________________________
-     Matrix Layer Rotation
-     Super Reduced String
-     Two Characters
-            ______________________________
-               Weighted Uniform Strings
-               Sherlock and Anagrams.
+           * Modi Kaprekar Nums
+             *Beautifull Triplets
+              *Minimum Distances
+                *Halloween Sale
+                  *Chocolate Feast
+        
+        *Service Lane
+         *Lisa's Workbook
+           *Fair Rations
+            *Cavity Map
+             *Manasa and Stones
+              *The Grid Search
+           
+           *Happy Ladybugs
+            *Strange Counter
+             *Tutorial Challenges
+              *CamelCase
+               *Insertion Sort - Part(1)
+                *Strong Password
+      
+      *Insertion Sort - Part(2)
+       *Loop Invariant
+        *Caesar Cipher
+         *Mars Exploration
+          *Run Time of Algorithm
+           *Hackerrank in a String!
+            *Pangams 
+             *Separate the Numbers
+               
+               *Counting SOrt-(2)
+                *Gemstones
+                 *Alternating Characters
+                  *Beautifull Binary String
+                   *Love-Letter Mystery
+                     *Anagram
+     
+     *Making Anagrams
+      *Game of Thrones-1
+       *Two Strings
+        *String Construction
+         *Extra Long Factorials
+           *Non-Divisible Subset
+             
+             *Queen's Attack-II
+              *Bigger is Greater
+               *Flatland Space Stations
+                *3D Surface Area
+                 *Absolute Permutation
+                   *Larry's Array
+                    *Almost Sorted
+     
+     *Matrix Layer Rotation
+        *Super Reduced String
+           *Two Characters
+            
+               *Weighted Uniform Strings
+                  *Sherlock and Anagrams.
 __________________________________________________________________________________
 # Day 15 to 80:
 * Problem 1 : - Running sum array
