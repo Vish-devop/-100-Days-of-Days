@@ -90,7 +90,7 @@ Problems: * Encryption
                *Weighted Uniform Strings
                   *Sherlock and Anagrams.
 __________________________________________________________________________________
-# Day 15 to 80:
+# Day 15 to 80: ##All on Leetcode
 * Problem 1 : - Running sum array
 * Problem 2 : - Number of Good pairs
 * Problem 3 : - Shuffle Array
