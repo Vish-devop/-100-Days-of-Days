@@ -5,34 +5,40 @@
 **1.Day 1 to 10:**
 - Learning the fundamentals of a language [**Python**].
 **2.Day 5 to 15:**
-*Array
-  *Recurrsion
-   *Bit
-    *String
-     *Searching 
-       *Sorting
+* Array
+* Recurrsion
+* Bit
+* String
+* Searching 
+* Sorting
 **3. Day 15 to 50**
 ## Primary Data Strucures,
-[Array,String,Matrices,Stack,Queue,Linked-List].
+- Array
+- Matrices
+- Linked List
+- Bit Manipulation
+- Searching Algorithms
+- Sorting Algorithms
 **4. Day 50 to 80**
-*Trees
- *Graphs
-   *Greedy Algorithms
-     *Divide-And-Conquer Algorithms
-      *Dynamic Programming Approach of SOlving the algorithms.
+* Trees
+* Graphs
+* Greedy Algorithms
+* Divide-And-Conquer Algorithms
+* Dynamic Programming Approach of Solving the algorithms.
 **5. Day to 80 to 100**
 Revision.
-________________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________
 ## Goals:
-[ Increase the coding profile on Internet
- Making a Hands-on practice for Placements.
- Having Good Hands on Python Language.]
+- Increase the coding profile on Internet
+- Making a Hands-on practice for Placements.
+- Having Good Hands on Python Language.
 ______________________________________________________________________________________________________________________________________________________________________________
 # The TIMELINE
 ______________
 Day 1-15: (All on Hackerrank)
-Problems: * Encryption
-           * Modi Kaprekar Nums
+
+Problems: *Encryption
+           *Modi Kaprekar Nums
              *Beautifull Triplets
               *Minimum Distances
                 *Halloween Sale
@@ -199,6 +205,7 @@ ________________________________________________________________________________
 * **DataBase Managememt System**
 * **Networking**
 * **All the algorithms that you have studied.**
+* **OOPS Concept**
 
 
 > Happy Journey.😌😌
