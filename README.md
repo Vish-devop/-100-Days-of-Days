@@ -1,4 +1,4 @@
-# -100-Days-of-Days
+# -100-Days-of-DSA.(Code)
 ## This is a challenge to me, where I would be focusing on creating a better me in field of programming.
 
 ###### Learning items: 
